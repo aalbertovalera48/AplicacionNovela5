@@ -2,7 +2,7 @@
 
 **Link al Repositorio:** https://github.com/aalbertovalera48/AplicacionNovela5.git
 
-**Link a la Base de Datos Firebase:** 
+**Link a la Base de Datos Firebase:** https://gestion-de-novelas-actualizado-default-rtdb.firebaseio.com/
 
 ## Objetivo
 
